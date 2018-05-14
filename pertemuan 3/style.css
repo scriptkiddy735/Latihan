@@ -1,0 +1,11 @@
+body{
+	background-color:green;
+}
+
+p.hijau{
+	color: navy;
+	margin-right: 250px;
+	margin-left: 250px;
+}
+.garisbawah{text-decoration: underline;}
+.dicoret{text-decoration: line-through;}
